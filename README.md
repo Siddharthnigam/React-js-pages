@@ -1,5 +1,7 @@
 # react-js-component
 
+the api is working little bit slow so wait a little bit afer running the page it will load..
+
 ## Installation and Setup
 
 ### Clone the Repository
